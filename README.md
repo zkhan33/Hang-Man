@@ -19,4 +19,10 @@ Guess a wrong letter again?:
 
 Did you lose?:
 
+![](https://github.com/zkhan33/Hang-Man/blob/master/Images/You%20lose.png)
+
+OR
+
+Did you win?:
+
 ![]()
