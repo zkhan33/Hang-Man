@@ -15,4 +15,8 @@ Guessed a wrong letter?:
 
 Guess a wrong letter again?:
 
+![](https://github.com/zkhan33/Hang-Man/blob/master/Images/Guessed%20the%20wrong%20letter%201.png)
+
+Did you lose?:
+
 ![]()
