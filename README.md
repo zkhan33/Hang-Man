@@ -7,13 +7,14 @@ Guess a letter:
 
 ___________________________________________________________________________________________
 Guess a letter again:
+
 ![](https://github.com/zkhan33/Hang-Man/blob/master/Images/Guess%20a%20letter%201.png)
 ___________________________________________________________________________________________
 Guessed a wrong letter?:
 
 ![](https://github.com/zkhan33/Hang-Man/blob/master/Images/Guessed%20the%20wrong%20letter%20.png)
 ___________________________________________________________________________________________
-Guess a wrong letter again?:
+Guessed a wrong letter again?:
 
 ![](https://github.com/zkhan33/Hang-Man/blob/master/Images/Guessed%20the%20wrong%20letter%201.png)
 ___________________________________________________________________________________________
